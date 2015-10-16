@@ -1,7 +1,7 @@
-name: null
+name: CanHasWebsite
 favicon: null
-layout_spectrum: 0.8
-typography_spectrum: 0.5
+layout_spectrum: 0.18671793956309557
+typography_spectrum: 0.8274809289723635
 cta:
   domain: null
   bucket: null
@@ -19,6 +19,7 @@ color:
   brandStrength: 0
   lightness: 0.5
   saturation: 0.5
+  rhythmicContrast: 0.43166347057558596
 purpose:
   - name: follow
     item: null
